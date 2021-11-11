@@ -1,5 +1,9 @@
 ## i3configs
 
+Currently deprecated due to the addition of the include directive in i3 v4.20. Archiving this repo.
+
+https://i3wm.org/docs/userguide.html#include
+
 #### Config templater for i3
 
 ### Overview
